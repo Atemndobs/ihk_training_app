@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.46666667" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dc401b1-378f-461a-ae24-01c9169bdf13" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/../contact-form/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="prufung: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="prufung: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_answers: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ikp_prufung" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ihk_training_app" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/composer" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/../contact-form/vendor/knplabs/knp-markdown-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1PPurya9AlsNP3KnKdgy58ZIewc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php-twig-mvc-crud" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/situation" />
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/view" />
+      <recent name="$PROJECT_DIR$/questions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/section" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$/view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@5181b886" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@5181b886" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@771dd5ea" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TYPO3Settings" version="191.3.25" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dc401b1-378f-461a-ae24-01c9169bdf13" name="Default Changelist" comment="" />
+      <created>1565263861122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565263861122</updated>
+      <workItem from="1565263865706" duration="21679000" />
+      <workItem from="1565360623293" duration="825000" />
+      <workItem from="1565362688655" duration="6858000" />
+      <workItem from="1565395611901" duration="1723000" />
+      <workItem from="1565779558226" duration="599000" />
+      <workItem from="1565785123203" duration="23000" />
+      <workItem from="1565787429318" duration="160000" />
+      <workItem from="1565788272979" duration="423000" />
+      <workItem from="1565788899752" duration="181000" />
+      <workItem from="1565789118372" duration="117000" />
+      <workItem from="1565794094887" duration="404000" />
+      <workItem from="1565794552952" duration="184000" />
+      <workItem from="1565794763146" duration="34000" />
+      <workItem from="1565794818989" duration="53000" />
+      <workItem from="1565794895180" duration="163000" />
+      <workItem from="1565795079127" duration="55248000" />
+      <workItem from="1566113617786" duration="1101000" />
+      <workItem from="1566114740087" duration="821000" />
+      <workItem from="1566187652830" duration="11868000" />
+      <workItem from="1566202322558" duration="396000" />
+      <workItem from="1566233599893" duration="6863000" />
+      <workItem from="1566244043301" duration="9026000" />
+      <workItem from="1566254431143" duration="12688000" />
+      <workItem from="1566291182636" duration="5915000" />
+      <workItem from="1566302794389" duration="388000" />
+      <workItem from="1566369909299" duration="173000" />
+      <workItem from="1566507729768" duration="2474000" />
+      <workItem from="1566630506260" duration="427000" />
+      <workItem from="1566630958364" duration="27085000" />
+      <workItem from="1566828819199" duration="777000" />
+      <workItem from="1566829623011" duration="108000" />
+      <workItem from="1566838960287" duration="12504000" />
+      <workItem from="1566992331987" duration="5867000" />
+      <workItem from="1567096077625" duration="1102000" />
+      <workItem from="1567098646440" duration="9455000" />
+      <workItem from="1567156678589" duration="127000" />
+      <workItem from="1567177743370" duration="9204000" />
+      <workItem from="1567330839245" duration="15620000" />
+      <workItem from="1567428482262" duration="7575000" />
+      <workItem from="1567440387658" duration="33314000" />
+      <workItem from="1567800594470" duration="89191000" />
+      <workItem from="1568052286610" duration="8674000" />
+      <workItem from="1568071114195" duration="1012000" />
+      <workItem from="1568073298293" duration="161000" />
+      <workItem from="1568095875520" duration="8029000" />
+      <workItem from="1568235230046" duration="3204000" />
+      <workItem from="1568238504877" duration="5230000" />
+      <workItem from="1568298510732" duration="687000" />
+      <workItem from="1568910529322" duration="12794000" />
+      <workItem from="1568962637639" duration="640000" />
+      <workItem from="1568996352223" duration="6288000" />
+      <workItem from="1569073106578" duration="512000" />
+      <workItem from="1569437646827" duration="707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ihk_training" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/questions/q1-4.php</url>
+          <line>165</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/questions/q2-14.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/results/results_fin.php</url>
+          <line>186</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
