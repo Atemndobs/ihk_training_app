@@ -1,10 +1,10 @@
  bin/console doctrine:mapping:import "App\Entity" annotation --path=src/Entity   
 
- php bin/console make:entity --regenerate App 
+ php bin/console make:entity --regenerate App
 
 Add column in datzabase = add Entity in ORM  
 Enter the Database class and clreate a  method with neme of column to be addad, the got to cli and update entity as below.
 
- bin/console doctrine:schema:update --force  
+ php bin/console make:entity --regenerate App
 
 
