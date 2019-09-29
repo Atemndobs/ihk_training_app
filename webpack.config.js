@@ -1,5 +1,5 @@
-var Encore = require('@symfony/webpack-encore')
-//const Encore = require('@symfony/webpack-encore');
+//var Encore = require('@symfony/webpack-encore')
+const Encore = require('@symfony/webpack-encore');
 
 
 Encore
