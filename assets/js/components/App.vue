@@ -89,7 +89,7 @@ import Axios from 'axios'
             }
         },
         mounted() {
-            axios.get('http://localhost:3001/orders/')
+            axios.get('http://localhost:3000/orders/')
                 .then(response =>{
                     this.logItems = response.data
                     this.responseData = response
@@ -104,7 +104,7 @@ import Axios from 'axios'
                 this.name = 'loading...';
                 var vm = this;
                 for (let i = 0; i < 20; i++) {
-                    axios.get('http://localhost:3001/orders/'+ i)
+                    axios.get('http://localhost:3000/orders/'+ i)
                         .then(function (response) {
                             vm.name= response.data.name;
                             vm.city= response.data.city;
