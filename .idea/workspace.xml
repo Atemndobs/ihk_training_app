@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="be368b8b-88fd-4ef5-805c-5c8b937b345d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/public/build/app.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/build/app.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/build/entrypoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/entrypoints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/build/runtime.js" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/assets/js/components/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/components/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+>>>>>>> feature/001-setting-up
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +49,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="prufung@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="prufung@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="prufung: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -150,7 +152,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js/script" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -159,9 +161,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+<<<<<<< HEAD
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/pruf-viewer/node_modules/typescript/lib" />
+=======
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+>>>>>>> feature/001-setting-up
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/js/script" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Controller" />
     </key>
@@ -178,6 +187,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -189,6 +199,9 @@
       <envs />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager" selected="npm.dev-server">
+>>>>>>> feature/001-setting-up
     <configuration name="dev-server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -199,6 +212,7 @@
       <envs />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -214,6 +228,13 @@
       <command value="run" />
       <scripts>
         <script value="serve" />
+=======
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+>>>>>>> feature/001-setting-up
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -222,9 +243,13 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev-server" />
+<<<<<<< HEAD
         <item itemvalue="npm.lint" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.serve" />
+=======
+        <item itemvalue="npm.dev" />
+>>>>>>> feature/001-setting-up
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +260,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@eb43ea66" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@a126f21b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@a126f21b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4da7503c" type="9fbbdea:ServiceModel$ServiceNode" />
             </path>
           </expand>
           <select />
@@ -258,7 +288,13 @@
       <workItem from="1569522605710" duration="1805000" />
       <workItem from="1569776755055" duration="3320000" />
       <workItem from="1569780109047" duration="477000" />
+<<<<<<< HEAD
       <workItem from="1569780611707" duration="5675000" />
+=======
+      <workItem from="1569780611707" duration="3215000" />
+      <workItem from="1569825256517" duration="161000" />
+      <workItem from="1569825597487" duration="1087000" />
+>>>>>>> feature/001-setting-up
     </task>
     <servers />
   </component>
@@ -313,7 +349,10 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/webpack.config.js</url>
+<<<<<<< HEAD
           <properties lambdaOrdinal="-1" />
+=======
+>>>>>>> feature/001-setting-up
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
