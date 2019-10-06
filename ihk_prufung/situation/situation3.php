@@ -4,7 +4,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.1</p>
 
@@ -19,7 +19,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.2</p>
 
@@ -34,7 +34,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.3</p>
 
@@ -50,7 +50,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.4</p>
 
@@ -65,7 +65,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.5</p>
 
@@ -80,7 +80,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.6</p>
 
@@ -95,7 +95,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.7</p>
 
@@ -110,7 +110,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.8</p>
 
@@ -125,7 +125,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.9</p>
 
@@ -140,7 +140,7 @@
     <h2></h2>
     <section>
         <div class="form-header">
-            <h3>Situation 3</h3>
+               <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
         </div>
         <p>Frage 3.10</p>
 

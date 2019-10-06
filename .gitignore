@@ -103,3 +103,5 @@ sw.*
 
 # Vim swap files
 *.swp
+
+/.idea

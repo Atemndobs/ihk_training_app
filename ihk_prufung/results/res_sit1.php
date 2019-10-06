@@ -1,4 +1,4 @@
-<form action="../index.php" method="post" id="wizard">
+<form action="../ind.php" method="post" id="wizard">
     <!-- SECTION 1 -->
     <h2></h2>
     <section>
