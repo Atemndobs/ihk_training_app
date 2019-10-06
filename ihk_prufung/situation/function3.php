@@ -8,15 +8,14 @@
 
     <!-- MATERIAL DESIGN ICONIC FONT -->
     <link rel="stylesheet" href="../fonts/material-design-iconic-font/css/material-design-iconic-font.css">
-
+    <link rel="stylesheet" href="../css/style.css">
     <!-- STYLE CSS -->
     <style>
 
     </style>
 
-    <link rel="stylesheet" href="../css/style.css">
+
 </head>
-<body>
 <?php
 require_once '../conf/config.php';
 require_once '../classes/MysqliDb.php';
@@ -38,12 +37,10 @@ if (isset($_GET['edit'])) {
     }
 }
 ?>
+<body>
 
-<p>Situation</p>
 
-<div class="image">
-    <img src="../images/questions/situation3.png" alt="" sizes="" srcset="">
-</div>
+<p>Situation 3</p>
 
 
 

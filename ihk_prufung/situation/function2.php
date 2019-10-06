@@ -7,11 +7,10 @@
 
     <!-- MATERIAL DESIGN ICONIC FONT -->
     <link rel="stylesheet" href="../fonts/material-design-iconic-font/css/material-design-iconic-font.css">
-
+    <link rel="stylesheet" href="../css/style.css">
     <!-- STYLE CSS -->
 
 </head>
-<body>
 <?php
 require_once '../conf/config.php';
 require_once '../classes/MysqliDb.php';
@@ -26,15 +25,14 @@ if (isset($_GET['edit'])) {
     $tab = $db->get(DB_TAB);
     $db->where('situation', $situation, '=');
     $response = $db->getValue(DB_TAB, 'response', sizeof($tab));
-   // var_dump($response);
+    // var_dump($response);
 }
+
 ?>
+<body>
 
-<p>Situation</p>
 
-<div class="image">
-    <img src="../images/questions/situation2.png" alt="" sizes="" srcset="">
-</div>
+<p>Situation 2 </p>
 
 
 
@@ -51,6 +49,8 @@ if (isset($_GET['edit'])) {
 <script src="../js/jquery-3.3.1.min.js"></script>
 
 <!-- JQUERY STEP -->
+<script src="../js/jquery.steps.js"></script>
+<script src="../js/main.js"></script>
 
 <!-- Template created and distributed by Colorlib -->
 </body>

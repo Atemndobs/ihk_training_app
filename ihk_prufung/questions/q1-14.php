@@ -43,7 +43,8 @@
                     </div>
                 </div>
                     <div class="form-group">
-
+                        <input type="hidden" name="situation" value="<?php echo '1'; ?>" formaction="result_check.php" />
+                        <input name="submit" type="submit" value="Check your Answers"  class="btn btn-info" id="basic-next"  >
                     </div>
                 </div>
             </div>

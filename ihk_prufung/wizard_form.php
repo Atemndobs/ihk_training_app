@@ -43,7 +43,7 @@
 	<!-- Main navbar -->
 	<div class="navbar navbar-inverse">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="index.html"><img src="assets/images/logo_light.png" alt=""></a>
+			<a class="navbar-brand" href="view/index.html"><img src="assets/images/logo_light.png" alt=""></a>
 
 			<ul class="nav navbar-nav pull-right visible-xs-block">
 				<li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
@@ -361,7 +361,7 @@
 
 								<!-- Main -->
 								<li class="navigation-header"><span>Main</span> <i class="icon-menu" title="Main pages"></i></li>
-								<li><a href="index.html"><i class="icon-home4"></i> <span>Dashboard</span></a></li>
+								<li><a href="view/index.html"><i class="icon-home4"></i> <span>Dashboard</span></a></li>
 								<li>
 									<a href="#"><i class="icon-stack2"></i> <span>Page layouts</span></a>
 									<ul>
@@ -380,7 +380,7 @@
 								<li>
 									<a href="#"><i class="icon-copy"></i> <span>Layouts</span></a>
 									<ul>
-										<li><a href="index.html" id="layout1">Layout 1 <span class="label bg-warning-400">Current</span></a></li>
+										<li><a href="view/index.html" id="layout1">Layout 1 <span class="label bg-warning-400">Current</span></a></li>
 										<li><a href="../../layout_2/LTR/index.html" id="layout2">Layout 2</a></li>
 										<li><a href="../../layout_3/LTR/index.html" id="layout3">Layout 3</a></li>
 										<li><a href="../../layout_4/LTR/index.html" id="layout4">Layout 4</a></li>
@@ -1029,7 +1029,7 @@
 
 					<div class="breadcrumb-line">
 						<ul class="breadcrumb">
-							<li><a href="index.html"><i class="icon-home2 position-left"></i> Home</a></li>
+							<li><a href="view/index.html"><i class="icon-home2 position-left"></i> Home</a></li>
 							<li><a href="wizards_form.html">Wizards</a></li>
 							<li class="active">Form</li>
 						</ul>

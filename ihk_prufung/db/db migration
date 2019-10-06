@@ -7,4 +7,5 @@ Enter the Database class and clreate a  method with neme of column to be addad, 
 
  php bin/console make:entity --regenerate App
 
-
+db reg::
+DATABASE_URL=mysql://root:Root+1234@127.0.0.1:3306/prufung
