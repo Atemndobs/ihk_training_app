@@ -31,7 +31,7 @@ require_once '../classes/DB.php';
 
 ?>
 
-<form action="../index.php" method="post" id="wizard">
+<form action="../ind.php" method="post" id="wizard">
 <div class="form-control">
         <?php
         require '../results/final.php';

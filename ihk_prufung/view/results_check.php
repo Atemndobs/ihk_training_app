@@ -41,10 +41,6 @@
             }
 
 
-
-
-
-
             $db = new DB(DB_HOST, DB_USER, DB_PASS, DB_NAME, DB_PORT);
             $all_qs = $db->get(DB_TAB);
 

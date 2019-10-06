@@ -16,7 +16,6 @@
 
     <link rel="stylesheet" href="../css/style.css">
 </head>
-<body>
 <?php
 require_once '../conf/config.php';
 require_once '../classes/MysqliDb.php';
@@ -28,17 +27,13 @@ if (isset($_GET['edit'])) {
     $tab = $db->get(DB_TAB);
     $db->where('situation', $situation, '=');
     $response = $db->getValue(DB_TAB, 'response', sizeof($tab));
-  //  var_dump($response);
+    //  var_dump($response);
 }
 ?>
-
-<p>Situation</p>
-
-<div class="image">
-    <img src="../images/questions/situation4.png" alt="" sizes="" srcset="">
-</div>
+<body>
 
 
+<h3>Situation 4</h3>
 
 <div class="wrapper">
         <?php
